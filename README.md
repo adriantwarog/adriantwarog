@@ -1,6 +1,6 @@
 ### Hi there 👋, Adrian Twarog
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/945877361844568064/1583889522/1500x500)
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
 I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
